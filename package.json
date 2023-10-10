@@ -1,0 +1,23 @@
+{
+  "name": "be-30-bcrypt-borisdmitriev",
+  "version": "1.0.0",
+  "description": "This assignment will allow you to play around with the `bcrypt` package by building a CLI application",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBW-WD-22-D07/be-30-bcrypt-BorisDmitriev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBW-WD-22-D07/be-30-bcrypt-BorisDmitriev/issues"
+  },
+  "homepage": "https://github.com/FBW-WD-22-D07/be-30-bcrypt-BorisDmitriev#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0"
+  }
+}
